@@ -17,4 +17,4 @@ $('#adamsFront').click(function(){
   apiCall();
 });
 
-$('.card').flip();
+$("#card").flip();
